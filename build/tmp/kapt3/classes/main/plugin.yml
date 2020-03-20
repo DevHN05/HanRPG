@@ -1,0 +1,9 @@
+# Auto-generated plugin.yml, generated at 2020/03/17 14:08:50 by org.bukkit.plugin.java.annotation.PluginAnnotationProcessor
+
+main: me.devhn.hanrpgkt.HanRpg
+name: hanrpg
+version: 1.0.0
+depend:
+- Spikot
+commands: {}
+permissions: {}
